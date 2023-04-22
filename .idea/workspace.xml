@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Made changes to Chapter 9.">
+      <change beforePath="$PROJECT_DIR$/(10) Statistics for Exploratory Data Analysis/10.4 Probability Theory/(2)_Chapter_9_Putting_Probability_and_Statistics_Together.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(10) Statistics for Exploratory Data Analysis/10.4 Probability Theory/(2)_Chapter_9_Putting_Probability_and_Statistics_Together.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+</project>
