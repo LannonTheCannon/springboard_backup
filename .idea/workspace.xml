@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="uploading all the chapters">
-      <change afterPath="$PROJECT_DIR$/(11) Python Statistics in EDA/(1) Statistical Inference in Python.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="uploading all the chapters" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
