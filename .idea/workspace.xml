@@ -4,7 +4,161 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="uploading all the chapters" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="added Intro to Statistical Inference and Statistical Modelling in Python">
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/.idea/Capstone-Two-.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/Chinook.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/L-L1_LOSC_4_V1-1126259446-32.hdf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/battledeath.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/disarea.dta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/ja_data2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/sales.sas7bdat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/seaslug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 1/titanic_sub.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 2/Intermediate Importing Data in Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Importing files in python part 2/winequality-red.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.2 Data Collection/Nasdaq_API_Project/api_data_wrangling_mini_project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.4 Data Definitions/(2) meteorites - exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.4 Data Definitions/tmp/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(1) Cleaning Data in Python - Datacamp/Cleaning Data in Python - Datacamp.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(1) Cleaning Data in Python - Datacamp/airlines_final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(1) Cleaning Data in Python - Datacamp/banking_dirty.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(1) Cleaning Data in Python - Datacamp/restaurants_L2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(1) Cleaning Data in Python - Datacamp/restaurants_L2_dirty.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(1) Cleaning Data in Python - Datacamp/ride_sharing_new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(2) Python Data Science Toolbox (Part 2) - Datacamp/Python Data Science Toolbox (Part 2).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(2) Python Data Science Toolbox (Part 2) - Datacamp/tweets.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(2) Python Data Science Toolbox (Part 2) - Datacamp/world_ind_pop_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/00.00-Preface.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/01.00-IPython-Beyond-Normal-Python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/01.02-Shell-Keyboard-Shortcuts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/01.03-Magic-Commands.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/01.05-IPython-And-Shell-Commands.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/01.06-Errors-and-Debugging.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/02.03-Computation-on-arrays-ufuncs.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/02.04-Computation-on-arrays-aggregates.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/02.05-Computation-on-arrays-broadcasting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/02.06-Boolean-Arrays-and-Masks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/02.09-Structured-Data-NumPy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/03.01-Introducing-Pandas-Objects.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/03.02-Data-Indexing-and-Selection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/03.03-Operations-in-Pandas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/03.10-Working-With-Strings.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/03.11-Working-with-Time-Series.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/03.12-Performance-Eval-and-Query.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/03.13-Further-Resources.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.00-Introduction-To-Matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.02-Simple-Scatter-Plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.03-Errorbars.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.04-Density-and-Contour-Plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.06-Customizing-Legends.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.07-Customizing-Colorbars.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.13-Geographic-Data-With-Basemap.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.14-Visualization-With-Seaborn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/04.15-Further-Resources.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.00-Machine-Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.01-What-Is-Machine-Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.03-Hyperparameters-and-Model-Validation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.09-Principal-Component-Analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.10-Manifold-Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.13-Kernel-Density-Estimation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.14-Image-Features.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/05.15-Learning-More.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/20170107-061401-recipeitems.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/20170107-061401-recipeitems_small_sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/BicycleWeather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/Seattle2014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/births.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/california_cities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/president_heights.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/state-abbrevs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/state-areas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/data/state-population.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/02.05-broadcasting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/03.08-split-apply-combine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-classification-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-classification-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-classification-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-clustering-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-clustering-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-dimesionality-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-dimesionality-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-regression-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-regression-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-regression-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.01-regression-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.02-samples-features.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.03-2-fold-CV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.03-5-fold-CV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.03-bias-variance-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.03-bias-variance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.03-learning-curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.03-validation-curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.05-gaussian-NB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.06-gaussian-basis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.08-decision-tree-levels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.08-decision-tree-overfitting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.08-decision-tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.09-PCA-rotation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.09-digits-pca-components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.09-digits-pixel-components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.10-LLE-vs-MDS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.11-expectation-maximization.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/05.12-covariance-type.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/Data_Science_VD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/PDSH-cover-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/PDSH-cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/array_vs_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/figures/cint_vs_pyint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.5 Data Cleaning/(3) Handling Text Data/helpers_05_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.6 Capstone Two; Data Wrangling/Capstone Two - Data Wrangling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.6 Capstone Two; Data Wrangling/Instructions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.6 Capstone Two; Data Wrangling/cap stone 2 data wrangling instructions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(7) Data Wrangling/7.6 Capstone Two; Data Wrangling/edtech (1).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.1 SQL and Databases Overview/(1) Introduction to SQL and Databases.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.1 SQL and Databases Overview/(2) SQL Vs. NoSQL - Article.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.1 SQL and Databases Overview/(4) Set Theory The Method to Database Madness - Article.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/(1) Introduction to SQL for Data Science.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/(2) SQL for Joining Data.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/cities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/countries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/countries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/countries_plus.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/currencies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/economies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/economies2010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/economies2015.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/languages.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/countries2/populations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/diagrams.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/left_one.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/left_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/right2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/right_one.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/right_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/table1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/diagrams/table2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/leaders2/leaders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/leaders2/monarchs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/leaders2/presidents.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/leaders2/prime_ministers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.2 SQL Skills for Data Science/leaders2/states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/(1) Working with Relational Databases In Python (Chapter 3).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/Chinook.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/Northwind.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/SQLFiles Tier 1/.ipynb_checkpoints/LocalSQLConnection-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/SQLFiles Tier 1/.ipynb_checkpoints/README-checkpoint.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/SQLFiles Tier 1/.ipynb_checkpoints/SQLTasks Tier 1-checkpoint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/SQLFiles Tier 1/LocalSQLConnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/SQLFiles Tier 1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/SQLFiles Tier 1/SQLTasks Tier 1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/(8) SQL &amp; Databases/8.3 Case Study - Country Club/SQLFiles Tier 1/sqlite_db_pythonsqlite.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Springboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(11) Python Statistics in EDA/(1) Statistical Inference in Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(11) Python Statistics in EDA/(1) Statistical Inference in Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +182,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/(11) Python Statistics in EDA"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\(3)_Frequentist_Case_Study" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\(1)_Statistical_Thinking_in_Python_Part1_DataCamp" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\images" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
