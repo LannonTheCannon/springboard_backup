@@ -1,7 +1,9 @@
 welcome traveller,
 
-I have organized this directory to align with the Springboard curriculum. The data wrangling capstone 2 jupyter
-notebook is found inside folder 7.6.
+Case Study - Frequentist Inference: A is found in 11_Python Statistics in EDA
+    > (3)_Frequentist_Case_Study
+        > Frequentist_Inference_Case_Study_Part_A
+        > Frequentist_Inference_Case_Study_Part_B
 
 Safe travels,
 
