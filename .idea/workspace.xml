@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Completed Frequentist_Inference_Case_Study_Part_A.ipynb">
-      <change afterPath="D:/GitHub Stuff/Cohort1/WebDev/Creating a Basic Flask Web Application.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Springboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Springboard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Added a jupyter notebook for cohort1 level 10 in webdev">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/.idea/Cohort1.iml" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/.idea/Cohort1.iml" afterDir="false" />
+      <change beforePath="D:/GitHub Stuff/Cohort1/WebDev/Creating a Basic Flask Web Application.ipynb" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/WebDev/Creating a Basic Flask Web Application.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +68,7 @@
     <MESSAGE value="common please work" />
     <MESSAGE value="uploading all the chapters" />
     <MESSAGE value="Completed Frequentist_Inference_Case_Study_Part_A.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Frequentist_Inference_Case_Study_Part_A.ipynb" />
+    <MESSAGE value="Added a jupyter notebook for cohort1 level 10 in webdev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a jupyter notebook for cohort1 level 10 in webdev" />
   </component>
 </project>
