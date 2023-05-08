@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="added to the jupyter document to include more details">
-      <change afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 2/Using_HTML_and_CSS_Part2.ipynb" afterDir="false" />
-      <change afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 2/Using_HTML_and_CSS_SC.py" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished half way with Frequentist 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/WebDev/Creating a Basic Flask Web Application.ipynb" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 1/Creating a Basic Flask Web Application.ipynb" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/WebDev/Flask_For_Beginners_1.py" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 1/Flask_For_Beginners_1.py" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/WebDev/Flask_For_Beginners_2.py" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 1/Flask_For_Beginners_2.py" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/WebDev/Flask_For_Beginners_3.py" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 1/Flask_For_Beginners_3.py" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/WebDev/app1.py" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 1/app1.py" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/WebDev/blog.py" beforeDir="false" afterPath="D:/GitHub Stuff/Cohort1/WebDev/Day 1/blog.py" afterDir="false" />
-      <change beforePath="D:/GitHub Stuff/Cohort1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/GitHub Stuff/Cohort1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,15 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/(11) Python Statistics in EDA"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/16269/DataspellProjects/Springboard/(11) Python Statistics in EDA&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
