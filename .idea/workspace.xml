@@ -4,9 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished half way with Frequentist 2">
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="moved frequentist stuff into 11.1 folder">
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/1_Introduction_To_Data_Vis_Matplotlib/1_Introduction_to_Data_Vis_Matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/1_Introduction_To_Data_Vis_Matplotlib/data/austin_weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/1_Introduction_To_Data_Vis_Matplotlib/data/climate_change.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/1_Introduction_To_Data_Vis_Matplotlib/data/medals_by_country_2016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/1_Introduction_To_Data_Vis_Matplotlib/data/seattle_weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/1_Introduction_To_Data_Vis_Matplotlib/data/summer2016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/2_Introduction_To_Seaborn/Introduction_to_Data_Vis_Seaborn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/2_Introduction_To_Seaborn/data/countries-of-the-world.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/2_Introduction_To_Seaborn/data/mpg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/2_Introduction_To_Seaborn/data/student-alcohol-consumption.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.2_Data_Visualization_in_Python/2_Introduction_To_Seaborn/data/young-people-survey-responses.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/1_Statistical_Thinking_In_Python_Part2/Statistical_Thinking_in_Python_Part2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/AppleStore.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 1 - Complete.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 2 - Complete.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 3 - Complete.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/appleStore_description.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/googleplaystore.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/googleplaystore_user_reviews.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_A.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.1_Statistical_Inference_In_Pyton/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_A.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.1_Statistical_Inference_In_Pyton/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/insurance2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.1_Statistical_Inference_In_Pyton/(3)_Frequentist_Case_Study/insurance2.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -47,11 +68,11 @@
       <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GitHub Stuff\Cohort1\WebDev\Day 1" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\(3)_Frequentist_Case_Study" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\(1)_Statistical_Thinking_in_Python_Part1_DataCamp" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\images" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\2_Introduction_To_Seaborn\data" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\1_Introduction_To_Data_Vis_Matplotlib" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\data" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.1_Statistical_Inference_In_Pyton" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,6 +121,8 @@
     <MESSAGE value="Completed Frequentist_Inference_Case_Study_Part_A.ipynb" />
     <MESSAGE value="Added a jupyter notebook for cohort1 level 10 in webdev" />
     <MESSAGE value="added to the jupyter document to include more details" />
-    <option name="LAST_COMMIT_MESSAGE" value="added to the jupyter document to include more details" />
+    <MESSAGE value="Finished all Frequentist 2" />
+    <MESSAGE value="moved frequentist stuff into 11.1 folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved frequentist stuff into 11.1 folder" />
   </component>
 </project>
