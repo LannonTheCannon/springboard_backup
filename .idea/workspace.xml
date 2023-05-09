@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished half way with Frequentist 2">
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="moved frequentist stuff into 11.1 folder">
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 3 - Complete.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/(3)_Frequentist_Case_Study/Frequentist_Inference_Case_Study_Part_B.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/AppleStore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/AppleStore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 1 - Complete.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 1 - Complete.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/appleStore_description.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/appleStore_description.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/googleplaystore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/googleplaystore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/googleplaystore_user_reviews.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/googleplaystore_user_reviews.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -33,25 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/16269/DataspellProjects/Springboard/(11) Python Statistics in EDA&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/(11) Python Statistics in EDA",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GitHub Stuff\Cohort1\WebDev\Day 1" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\(3)_Frequentist_Case_Study" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\(1)_Statistical_Thinking_in_Python_Part1_DataCamp" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA\images" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps\data" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\2_Introduction_To_Seaborn\data" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\1_Introduction_To_Data_Vis_Matplotlib" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\data" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,6 +106,8 @@
     <MESSAGE value="Completed Frequentist_Inference_Case_Study_Part_A.ipynb" />
     <MESSAGE value="Added a jupyter notebook for cohort1 level 10 in webdev" />
     <MESSAGE value="added to the jupyter document to include more details" />
-    <option name="LAST_COMMIT_MESSAGE" value="added to the jupyter document to include more details" />
+    <MESSAGE value="Finished all Frequentist 2" />
+    <MESSAGE value="moved frequentist stuff into 11.1 folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved frequentist stuff into 11.1 folder" />
   </component>
 </project>
