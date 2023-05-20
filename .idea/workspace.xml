@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="moved frequentist stuff into 11.1 folder">
-      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 3 - Complete.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.4_Statistical_Modelling_in_Python/(1)_Case_Study_Linear_Regression/Springboard Regression Case Study - the Red Wine Dataset - Tier 1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.4_Statistical_Modelling_in_Python/(1)_Case_Study_Linear_Regression/Springboard Regression Case Study - the Red Wine Dataset - Tier 3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.4_Statistical_Modelling_in_Python/(1)_Case_Study_Linear_Regression/data/wineQualityReds.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/AppleStore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/AppleStore.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 1 - Complete.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/Springboard Apps project - Tier 1 - Complete.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/appleStore_description.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/appleStore_description.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/googleplaystore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/googleplaystore.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/googleplaystore_user_reviews.csv" beforeDir="false" afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.3_Hypothesis_Testing_in_Python/2_Case_Study_Integrating_Apps/data/googleplaystore_user_reviews.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +35,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/(11) Python Statistics in EDA",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/16269/DataspellProjects/Springboard/(11) Python Statistics in EDA&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression\data" />
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps\data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\2_Introduction_To_Seaborn\data" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\1_Introduction_To_Data_Vis_Matplotlib" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\data" />
     </key>
   </component>
   <component name="RunManager">
