@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="moved frequentist stuff into 11.1 folder">
-      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.4_Statistical_Modelling_in_Python/(1)_Case_Study_Linear_Regression/Springboard Regression Case Study - the Red Wine Dataset - Tier 1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.4_Statistical_Modelling_in_Python/(1)_Case_Study_Linear_Regression/Springboard Regression Case Study - the Red Wine Dataset - Tier 3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.4_Statistical_Modelling_in_Python/(1)_Case_Study_Linear_Regression/data/wineQualityReds.csv" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished wine case study tier 3">
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/Exploratory_Data_Analysis_Zomato.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/data/Country-Code.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/data/file1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/data/file2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/data/file3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/data/file4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/data/file5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Python Statistics in EDA/11.5_Capstone_Two_EDA/data/zomato.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +55,11 @@
       <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.5_Capstone_Two_EDA\data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression\data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps\data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.2_Data_Visualization_in_Python\2_Introduction_To_Seaborn\data" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,6 +110,7 @@
     <MESSAGE value="added to the jupyter document to include more details" />
     <MESSAGE value="Finished all Frequentist 2" />
     <MESSAGE value="moved frequentist stuff into 11.1 folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved frequentist stuff into 11.1 folder" />
+    <MESSAGE value="Finished wine case study tier 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished wine case study tier 3" />
   </component>
 </project>
