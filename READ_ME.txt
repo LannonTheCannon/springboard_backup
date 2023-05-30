@@ -1,10 +1,7 @@
-welcome traveller,
+Hello Springboard!
 
-Case Study - Integrating Apps is found in 11_Python Statistics in EDA
-    > 11.3_Hypothesis_Testing_in_Python
-        > 2_Case_Study_Integrating_Apps
-            > Springboard Apps project - Tier 1 - Complete
+The EDA for my Capstone 2 project is found inside 11_Python_Statistics_in_EDA inside 11.5_Capstone_Two_EDA
 
-Safe travels,
+Kind Regards,
 
-Lord Tater Tot
+Lannon
