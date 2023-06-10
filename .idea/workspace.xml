@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Almost finished with EDA">
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.2_Logistic_Regression/Logistic Regression Advanced Case Study.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.2_Logistic_Regression/data/heart.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.2_Logistic_Regression/images/Confusion_Matrix.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.2_Logistic_Regression/images/dataform.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.2_Logistic_Regression/images/onelinesplit.png" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished with Chapter 14 Logistic Regression Case Study!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +106,7 @@
     <MESSAGE value="moved frequentist stuff into 11.1 folder" />
     <MESSAGE value="Finished wine case study tier 3" />
     <MESSAGE value="Almost finished with EDA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost finished with EDA" />
+    <MESSAGE value="Finished with Chapter 14 Logistic Regression Case Study!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished with Chapter 14 Logistic Regression Case Study!" />
   </component>
 </project>
