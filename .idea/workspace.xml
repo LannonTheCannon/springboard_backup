@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/RandomForest_casestudy_covid19.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/data/PatientInfo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/Gradient Boosting Case Study.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/data/titanic.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,28 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/16269/DataspellProjects/Springboard/14_Supervised_Learning&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/lannonkhau/Documents/GitHub/springboard_backup/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting" />
+      <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest" />
+      <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning\14.2_Logistic_Regression" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\(11) Python Statistics in EDA" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning\14.2_Logistic_Regression" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.5_Capstone_Two_EDA\data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression\data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.3_Hypothesis_Testing_in_Python\2_Case_Study_Integrating_Apps\data" />
     </key>
   </component>
   <component name="RunManager">
