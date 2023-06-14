@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished with Chapter 14 Logistic Regression Case Study!">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/14_Supervised_Learning",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
