@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished with Chapter 14 Logistic Regression Case Study!">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" afterDir="false" />
     </list>
@@ -34,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/14_Supervised_Learning",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/16269/DataspellProjects/Springboard/14_Supervised_Learning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning" />
@@ -109,6 +108,7 @@
     <MESSAGE value="Finished wine case study tier 3" />
     <MESSAGE value="Almost finished with EDA" />
     <MESSAGE value="Finished with Chapter 14 Logistic Regression Case Study!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished with Chapter 14 Logistic Regression Case Study!" />
+    <MESSAGE value="Started working on Tier 1 of the Case Study in chapter 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started working on Tier 1 of the Case Study in chapter 14" />
   </component>
 </project>
