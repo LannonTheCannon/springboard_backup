@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/RandomForest_casestudy_covid19.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/data/PatientInfo.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/Gradient Boosting Case Study.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/data/titanic.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
