@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.2_Logistic_Regression/Logistic Regression Advanced Case Study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.2_Logistic_Regression/Logistic Regression Advanced Case Study.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,5 +114,16 @@
     <MESSAGE value="Finished with Chapter 14 Logistic Regression Case Study!" />
     <MESSAGE value="Started working on Tier 1 of the Case Study in chapter 14" />
     <option name="LAST_COMMIT_MESSAGE" value="Started working on Tier 1 of the Case Study in chapter 14" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/lannonkhau/Documents/GitHub/springboard_backup/14_Supervised_Learning/14.3_Decision_Trees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb</url>
+          <line>243</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
