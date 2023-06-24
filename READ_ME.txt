@@ -1,6 +1,6 @@
 Hello Springboard!
 
-The EDA for my Capstone 2 project is found inside 11_Python_Statistics_in_EDA inside 11.5_Capstone_Two_EDA
+The Springboard Decision Tree Speciality Coffee Case Study Tier 3 is located in 14_Supervised_Learning > 14.3_Decision_Trees
 
 Kind Regards,
 
