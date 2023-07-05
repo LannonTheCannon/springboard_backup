@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Started working on Tier 1 of the Case Study in chapter 14">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/RandomForest_casestudy_covid19.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/RandomForest_casestudy_covid19.ipynb" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case Study - Random Forest for chapter 14.4">
+      <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +110,7 @@
     <MESSAGE value="Almost finished with EDA" />
     <MESSAGE value="Finished with Chapter 14 Logistic Regression Case Study!" />
     <MESSAGE value="Started working on Tier 1 of the Case Study in chapter 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started working on Tier 1 of the Case Study in chapter 14" />
+    <MESSAGE value="Finished Case Study - Random Forest for chapter 14.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Case Study - Random Forest for chapter 14.4" />
   </component>
 </project>
