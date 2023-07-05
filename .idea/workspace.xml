@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Ensemble Methods: Gradient Boosting Case Study">
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/Euclidean_and_Manhattan_Distances_Case_Study.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/data/distance_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/plots/Euclidean.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/plots/distance-comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/plots/manhattan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case-Study for Calculating Distances in Chapter 15 for Unsupervised Learning">
+      <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +112,7 @@
     <MESSAGE value="Started working on Tier 1 of the Case Study in chapter 14" />
     <MESSAGE value="Finished Case Study - Random Forest for chapter 14.4" />
     <MESSAGE value="Finished Ensemble Methods: Gradient Boosting Case Study" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Ensemble Methods: Gradient Boosting Case Study" />
+    <MESSAGE value="Finished Case-Study for Calculating Distances in Chapter 15 for Unsupervised Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Case-Study for Calculating Distances in Chapter 15 for Unsupervised Learning" />
   </component>
 </project>

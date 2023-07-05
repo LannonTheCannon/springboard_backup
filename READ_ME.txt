@@ -6,6 +6,9 @@ Chapter 14_Supervised_Learning inside 14.4_Ensemble_Methods_and_Random_Forest.
 2. The Case Study - Gradient Boosting is found in Chapter 14_Supervised_Learning
 inside 14.5_Ensemble_Methods_Gradient_Boosting.
 
+3. The Case Study - Calculating Distances is found in chapter 15_Unsupervised_Learning
+inside 15.2_Euclidean_and_Manhattan_Distances
+
 Have a great day!
 
 Kind Regards,
