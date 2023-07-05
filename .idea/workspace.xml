@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Ensemble Methods: Gradient Boosting Case Study">
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/Euclidean_and_Manhattan_Distances_Case_Study.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/data/distance_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/plots/Euclidean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/plots/distance-comparison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances/plots/manhattan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lannonkhau/Documents/GitHub/springboard_backup/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\15_Unsupervised_Learning\15.2_Euclidean_and_Manhattan_Distances" />
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting" />
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest" />
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning\14.2_Logistic_Regression" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/data" />
