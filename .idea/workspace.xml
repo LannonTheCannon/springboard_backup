@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case Study - Random Forest for chapter 14.4">
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Ensemble Methods: Gradient Boosting Case Study">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/Gradient Boosting Case Study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/Gradient Boosting Case Study.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +112,7 @@
     <MESSAGE value="Finished with Chapter 14 Logistic Regression Case Study!" />
     <MESSAGE value="Started working on Tier 1 of the Case Study in chapter 14" />
     <MESSAGE value="Finished Case Study - Random Forest for chapter 14.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Case Study - Random Forest for chapter 14.4" />
+    <MESSAGE value="Finished Ensemble Methods: Gradient Boosting Case Study" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Ensemble Methods: Gradient Boosting Case Study" />
   </component>
 </project>
