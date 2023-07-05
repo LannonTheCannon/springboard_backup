@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case Study - Random Forest for chapter 14.4">
-      <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/Gradient Boosting Case Study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/Gradient Boosting Case Study.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
