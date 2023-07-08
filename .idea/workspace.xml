@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case-Study for Calculating Distances in Chapter 15 for Unsupervised Learning">
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.5_Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.5_Cosine_Similarity/distance_dataset (1).csv" afterDir="false" />
+    <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case-Study for Cosine Similarity Chapter 15">
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/WineKMC.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,11 @@
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\15_Unsupervised_Learning\15.6_Principal_Component_Analysis" />
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning\14.2_Logistic_Regression" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.5_Capstone_Two_EDA\data" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression\data" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\11_Python Statistics in EDA\11.4_Statistical_Modelling_in_Python\(1)_Case_Study_Linear_Regression" />
     </key>
   </component>
   <component name="RunManager">
@@ -116,6 +116,7 @@
     <MESSAGE value="Finished Case Study - Random Forest for chapter 14.4" />
     <MESSAGE value="Finished Ensemble Methods: Gradient Boosting Case Study" />
     <MESSAGE value="Finished Case-Study for Calculating Distances in Chapter 15 for Unsupervised Learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Case-Study for Calculating Distances in Chapter 15 for Unsupervised Learning" />
+    <MESSAGE value="Finished Case-Study for Cosine Similarity Chapter 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Case-Study for Cosine Similarity Chapter 15" />
   </component>
 </project>
