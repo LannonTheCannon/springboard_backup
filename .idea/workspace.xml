@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case-Study for Calculating Distances in Chapter 15 for Unsupervised Learning">
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.5_Cosine_Similarity/Cosine_Similarity_Case_Study.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.5_Cosine_Similarity/distance_dataset (1).csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +41,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/15_Unsupervised_Learning/15.2_Euclidean_and_Manhattan_Distances",
+    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/15_Unsupervised_Learning/15.5_Cosine_Similarity",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16269\DataspellProjects\Springboard\15_Unsupervised_Learning\15.5_Cosine_Similarity" />
       <recent name="C:\Users\16269\DataspellProjects\Springboard\15_Unsupervised_Learning\15.2_Euclidean_and_Manhattan_Distances" />
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting" />
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest" />
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.4_Ensemble_Methods_and_Random_Forest/Case_Study_Random_Forest/data" />
-      <recent name="C:\Users\16269\DataspellProjects\Springboard\14_Supervised_Learning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/14_Supervised_Learning/14.5_Ensemble_Methods_Gradient_Boosting/data" />
