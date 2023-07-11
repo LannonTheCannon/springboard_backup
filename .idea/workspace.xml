@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1404dc2-732b-4595-95bb-188f47141d53" name="Changes" comment="Finished Case-Study for Cosine Similarity Chapter 15">
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/WineKMC.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/15_Unsupervised_Learning/15.6_Principal_Component_Analysis/Clustering Case Study - Customer Segmentation with K-Means - Tier 3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/READ_ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/READ_ME.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/16269/DataspellProjects/Springboard/15_Unsupervised_Learning/15.5_Cosine_Similarity",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/16269/DataspellProjects/Springboard/15_Unsupervised_Learning/15.5_Cosine_Similarity&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\16269\DataspellProjects\Springboard\15_Unsupervised_Learning\15.5_Cosine_Similarity" />
